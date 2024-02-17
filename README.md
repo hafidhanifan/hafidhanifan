@@ -42,6 +42,14 @@
   <br/><br/><br/>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align=center>
+    <a href="https://github.com/hafidhanifan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafidhanifan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafidhanifan&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</div>
+
 
 
 
