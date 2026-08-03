@@ -14,8 +14,6 @@
  
  🌱 I’m currently learning to become an expert Fullstack Developer
 
-⚡ Fun fact : I like coding, but i'm not a weeaboo
-
  </div>
  
 <div align="center"> 
