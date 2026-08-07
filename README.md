@@ -8,13 +8,7 @@
 
 <br/>
 
-<div align="center">
- 
- 🎓 I’m a Student of Information System in Faculty of Computer Science
- 
- 🌱 I’m currently learning to become an expert Fullstack Developer
-
- </div>
+<iframe src="https://giphy.com/embed/OCqWD6mIrcMQl5YQUB" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spiderman-thumbs-up-computer-on-OCqWD6mIrcMQl5YQUB">via GIPHY</a></p>
  
 <div align="center"> 
   <a href="mailto:hafid.hanifan123@gmail.com">
