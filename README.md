@@ -8,7 +8,9 @@
 
 <br/>
 
-<iframe src="https://giphy.com/embed/OCqWD6mIrcMQl5YQUB" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spiderman-thumbs-up-computer-on-OCqWD6mIrcMQl5YQUB">via GIPHY</a></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/OCqWD6mIrcMQl5YQUB/giphy.gif" width="300" />
+</p>
  
 <div align="center"> 
   <a href="mailto:hafid.hanifan123@gmail.com">
